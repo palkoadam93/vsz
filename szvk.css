@@ -1,0 +1,16 @@
+h3 {
+    font-family: Arial;
+    background-color: grey;
+    padding: 3px;
+}
+
+a {
+    font-family: Arial;
+    color:orange;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: orange;
+    color: white;
+}
