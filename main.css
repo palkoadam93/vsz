@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    background-color: rgb(60, 60, 60);
+    color: white;
+}
+div {overflow: auto;}
+p {
+  width: 49%;
+  text-align: center;
+  font-weight: bold;
+}
+.R {float:right;}
+.L {float:left;}
+a {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-weight: normal;
+    text-align:center;
+  }
+a:hover {
+  background-color: orange;
+  color: white;
+}
+article {
+  /*border: 1px solid blue;*/
+  width:49%;
+}
+article p {
+  /*border: 1px solid red;*/
+  width:100%;
+}
